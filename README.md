@@ -1,5 +1,5 @@
 # Tunar
-Söz Ustası oyunu. 2000-dən çox söz ilə
+Söz Ustası oyunu. 1000-dən çox ad ilə
 
 # Qurulum
 # Heroku
